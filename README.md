@@ -1,1 +1,2 @@
-# SHOWER AND IDEV MAKE SURE YOU PASTE THE DISOCRD CDN LINK IN THE NEW DLL VERSION FILE
+# Testing Branch
+This is a testing branch for delta android
